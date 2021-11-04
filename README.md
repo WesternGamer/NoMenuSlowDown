@@ -5,4 +5,5 @@ Prevents time slowing down when the log, weapon wheel, or the satchel is open. I
 ## Mirrors
 
 [Nexus Mods](https://www.nexusmods.com/reddeadredemption2/mods/1101/)
+
 [RDR2Mods](https://www.rdr2mods.com/downloads/rdr2/scripts/242-no-menu-slowdown/)
